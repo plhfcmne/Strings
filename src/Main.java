@@ -6,7 +6,7 @@ public class Main {
     }
 
     public static void task1() {
-        System.out.println("Задача  1");
+        System.out.println("Задача №1");
         String firstName = "Ivan";
         String middleName = "Ivanovich";
         String lastName = "Ivanov";
